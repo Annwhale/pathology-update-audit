@@ -31,4 +31,4 @@ python check_geometry.py /path/to/research-package
 - [BCSS](https://github.com/PathologyDataScience/BCSS)
 - [Colorectal tissue cores](https://doi.org/10.18710/DIGQGQ)
 
-Contact: zhangleyao@suda.edu.cn.
+Contact: a375825842@gmail.com.
